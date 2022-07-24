@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+	<!--css linking here -->
+
+	<link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+	<!-- header start -->
+	<header class="header">
+		
+	</header>
+	<!-- header end -->
+
+	<!-- banner section start-->
+	<section class="banner-section">
+		
+		<div>
+			<div>
+				<aside>
+				<textarea name="id=" cols="30" rows="10"></textarea>
+				<input type="checkbox"> Female
+
+				<select name="" id="">
+					<option value="0">Please select your district</option>
+					<option value="1">Dhaka</option>
+					<option value="2">Rajshahi</option>
+					<option value="3">Bogura</option>
+				</select>	
+				</aside>
+			</div>
+		</div>
+
+	</section>
+	<!-- banner section end -->
+
+	<!-- service section start -->
+	<section class="service">
+		
+	</section>
+	<!-- service section end  -->
+
+	<!-- footer start -->
+	<footer class="footer">
+		
+	</footer>
+	<!-- footer end -->
+	
+</body>
+</html>
+
+
+
+CSS............
+.login{
+	width: 60%;
+	height:400px;
+	background-color: red;  
+	margin: 150px 0px; 
+	padding: 50px 0px 50px 80px;
+}
